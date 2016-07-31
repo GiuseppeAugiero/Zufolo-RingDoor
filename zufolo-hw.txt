@@ -1,0 +1,7 @@
+Components:
+
+1 green LED 
+1 yellow LED
+2 resistors 1.5K Ohm
+1 resistor 6.8K Ohm
+1 female RS232 serial line connector with cable
